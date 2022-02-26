@@ -1,0 +1,7 @@
+ID: 1
+First Name: A
+Last Name: A
+Age:22
+Level Of Study: Sophomore
+Email: bilall@univ.com
+
